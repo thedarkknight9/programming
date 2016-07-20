@@ -1,1 +1,1 @@
-# programming
+# Repository to practice programming problems
